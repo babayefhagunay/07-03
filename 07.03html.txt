@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mehsullar.css">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+<div class="nav">
+    <div class="container">
+        <div class="navbar">
+            <div class="nav__logo">
+            <img src="galatalogo.png" alt="">
+            </div>
+            <ul>
+                <li><a href="">Əsas</a></li>
+                <li><a href="">Blog</a></li>
+                <li><a href="">Haqqınızda</a></li>
+                <li><a href="">Əlaqə</a></li>
+                <li><a href="">Tarixcə</a></li>
+            </ul>
+        </div>
+        <div>
+        </div>
+</div>
+</div>
+<div class="header">
+    <h1>Galatasaray</h1>
+</div>
+    
+<section>
+    <div class="h">
+        <h2>Idman Mallari</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque minima <br>dolorem quam vero blanditiis officia
+                ullam aut cumque deleniti id.</p>
+    </div>
+        
+<div class="cards">
+    <div class=card>
+        <div class="card_img">
+                <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+            
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+            
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+
+    <div class=card>
+        <div class="card_img">
+            <img src="1.png" alt="">
+        </div>
+        <div class="cart_text">
+            <h3>Puma</h3>
+            <div class="buy">
+                <p>4100$</p>
+                <button>Səbətə at</button>
+            </div>
+        </div>
+    </div>
+</div>            
+</section>
+
+</body>
+</html>
